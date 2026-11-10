@@ -1,0 +1,14 @@
+/Users/mac/HotfixPersonajes/bin/Debug/net10.0/HotfixPersonajes
+/Users/mac/HotfixPersonajes/bin/Debug/net10.0/HotfixPersonajes.deps.json
+/Users/mac/HotfixPersonajes/bin/Debug/net10.0/HotfixPersonajes.runtimeconfig.json
+/Users/mac/HotfixPersonajes/bin/Debug/net10.0/HotfixPersonajes.dll
+/Users/mac/HotfixPersonajes/bin/Debug/net10.0/HotfixPersonajes.pdb
+/Users/mac/HotfixPersonajes/obj/Debug/net10.0/HotfixPersonajes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/HotfixPersonajes/obj/Debug/net10.0/HotfixPersonajes.AssemblyInfoInputs.cache
+/Users/mac/HotfixPersonajes/obj/Debug/net10.0/HotfixPersonajes.AssemblyInfo.cs
+/Users/mac/HotfixPersonajes/obj/Debug/net10.0/HotfixPersonajes.csproj.CoreCompileInputs.cache
+/Users/mac/HotfixPersonajes/obj/Debug/net10.0/HotfixPersonajes.dll
+/Users/mac/HotfixPersonajes/obj/Debug/net10.0/refint/HotfixPersonajes.dll
+/Users/mac/HotfixPersonajes/obj/Debug/net10.0/HotfixPersonajes.pdb
+/Users/mac/HotfixPersonajes/obj/Debug/net10.0/HotfixPersonajes.genruntimeconfig.cache
+/Users/mac/HotfixPersonajes/obj/Debug/net10.0/ref/HotfixPersonajes.dll
